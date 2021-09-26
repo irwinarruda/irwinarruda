@@ -1,4 +1,4 @@
-### Hi there, I'm Irwin Arruda 👋
+### Hi there, I'm Irwin Arruda
 
 - 🖥 I’m currently working as a Front-end Developer at [Way Data Solution](https://waydatasolution.com.br/ "Way Data's home page").
 - <img valign="top" width="20px" height="20px" src="/sete-logo.ico" /> I'm also working in the free software project [SETE](https://github.com/marcosroriz/sete-web "SETE's github page"). The project is funded by FNDE (Fundo Nacional de Desenvolvimento da Educação) and helps cities manage school transportation.
@@ -7,7 +7,7 @@
 <br/>
 <div align="left">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=irwinarruda&show_icons=true&theme=dracula" alt="Irwin's GitHub stats" />
-  <img align="center" style="margin-left: 20px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=irwinarruda&layout=compact" alt="Top Langs" />
+  <img align="center" style="margin-left: 20px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=irwinarruda&layout=compact&theme=dracula" alt="Top Langs" />
 </div>
 
 ### Contact me
