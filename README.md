@@ -1,9 +1,9 @@
 ### Hi there, I'm Irwin Arruda 👋
 
 - 🖥 I’m currently working as a Front-end Developer at [Way Data Solution](https://waydatasolution.com.br/ "Way Data's home page").
-- <img align="center" width="20px" height="20px" src="/sete-logo.ico" /> I'm also working in the free software project [SETE](https://github.com/marcosroriz/sete-web "SETE's github page"). The project is funded by FNDE (Fundo Nacional de Desenvolvimento da Educação) and helps cities manage school transportation.
-- <img align="center" width="20px" height="20px" src="/react-logo.svg" /> My main javascript library is [React](https://reactjs.org/ "Reactjs Home page").
-- <img align="center" width="20px" height="20px" src="/next-logo.svg" /> [NextJs](https://nextjs.org/ "NextJs Home page") is the React Framework I'm working the most with.
+- <img valign="top" width="20px" height="20px" src="/sete-logo.ico" /> I'm also working in the free software project [SETE](https://github.com/marcosroriz/sete-web "SETE's github page"). The project is funded by FNDE (Fundo Nacional de Desenvolvimento da Educação) and helps cities manage school transportation.
+- <img align="top" width="20px" height="20px" src="/react-logo.svg" /> My main javascript library is [React](https://reactjs.org/ "Reactjs Home page").
+- <img align="top" width="20px" height="20px" src="/next-logo.svg" /> [NextJs](https://nextjs.org/ "NextJs Home page") is the React Framework I'm working the most with.
 <br/>
 <div align="left">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=irwinarruda&show_icons=true&theme=dracula" alt="Irwin's GitHub stats" />
