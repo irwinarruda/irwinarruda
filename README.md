@@ -1,7 +1,7 @@
 ### Hi there, I'm Irwin Arruda 👋
 
 - 🖥 I’m currently working as a Front-end Developer at [Way Data Solution](https://waydatasolution.com.br/ "Way Data's home page").
-- <img align="center" width="20px" height="20px" src="/sete-logo.ico" /> I'm also working in a free software project funded by FNDE (Fundo Nacional de Desenvolvimento da Educação) that helps cities manage school transportation.
+- <img align="center" width="20px" height="20px" src="/sete-logo.ico" /> I'm also working in a free software project funded by FNDE (Fundo Nacional de Desenvolvimento da Educação) [SETE](https://github.com/marcosroriz/sete-web "SETE's github page"), that helps cities manage school transportation.
 - <img align="center" width="20px" height="20px" src="/react-logo.svg" /> My main javascript library is [React](https://reactjs.org/ "Reactjs Home page").
 - <img align="center" width="20px" height="20px" src="/next-logo.svg" /> [NextJs](https://nextjs.org/ "NextJs Home page") is the React Framework I'm working the most with.
 <br/>
