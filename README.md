@@ -5,9 +5,9 @@
 - <img align="top" width="20px" height="20px" src="/react-logo.svg" /> My main javascript library is [React](https://reactjs.org/ "Reactjs Home page").
 - <img align="top" width="20px" height="20px" src="/next-logo.svg" /> [NextJs](https://nextjs.org/ "NextJs Home page") is the React Framework I'm working the most with.
 <br/>
-<div align="left">
+<div align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=irwinarruda&show_icons=true&theme=dracula" alt="Irwin's GitHub stats" />
-  <img align="center" style="margin-left: 20px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=irwinarruda&layout=compact&theme=dracula" alt="Top Langs" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=irwinarruda&layout=compact&theme=dracula" alt="Top Langs" />
 </div>
 
 ### Contact me
