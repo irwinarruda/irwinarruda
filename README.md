@@ -3,7 +3,7 @@
   <img src="brand/irwin-arruda-light.svg#gh-light-mode-only" alt="Irwin Arruda" width="360">
 </p>
 
-<h3 align="center">Software engineer · Tools and guardrails for coding agents</h3>
+<h3 align="center">Software engineer · AI &amp; developer tools</h3>
 
 <p align="center">
   <a href="https://www.irwinarruda.com">irwinarruda.com</a> ·
